@@ -1,0 +1,18 @@
+.odd{
+  background-color: salmon;
+}
+
+#numbertwo{
+  color: blue;
+  font-size: 36px;
+}
+
+#numberthree{
+  font-size: 36px;
+}
+
+#numberfour{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
