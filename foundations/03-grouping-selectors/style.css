@@ -1,0 +1,12 @@
+.btnone, .btntwo{
+  font-size: 28px;
+}
+
+.btnone{
+  background-color: black;
+  color: white;
+}
+
+.btntwo{
+  background-color: yellow;
+}
